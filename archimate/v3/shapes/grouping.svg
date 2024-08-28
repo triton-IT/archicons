@@ -3,7 +3,7 @@
    version="1.1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <path
+  <path vector-effect="non-scaling-stroke"
      d="M 0.75, 28.25 V 0.75 H 144.25 V 28.25"
      fill="none"
      stroke="#000"

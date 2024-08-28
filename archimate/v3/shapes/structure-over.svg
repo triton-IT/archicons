@@ -3,11 +3,11 @@
    version="1.1"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-   <rect class="fill-in stroke"
+   <rect class="fill-in stroke" vector-effect="non-scaling-stroke"
      x="0.65"
      y="0.65"
      width="179.35"
-     height="74.35"
+     height="79.35"
      fill="none"
      stroke="#000"
      stroke-width="1.3" />

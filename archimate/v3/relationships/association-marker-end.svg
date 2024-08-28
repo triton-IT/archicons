@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="13" height="8" viewbox="0 0 13 8" xml:space="preserve">
+    <defs>
+        <marker id='archimate-association-end' orient="auto" markerWidth='13' markerHeight='8' refX='0' refY='8' markerUnits="userSpaceOnUse">
+            <line stroke="#000" fill="#000" x1="0.3" y1="0.5" x2="12.5" y2="7.5"></polyline>
+        </marker>
+    </defs>
+</svg>

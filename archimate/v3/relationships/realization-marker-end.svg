@@ -2,8 +2,8 @@
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="23" height="23" viewBox="0 0 23 23" xml:space="preserve">
     <defs>
-        <marker id='archimate-realization-end' orient="auto" markerWidth='23' markerHeight='23' refX='0' refY='11.5' markerUnits="userSpaceOnUse">
-            <polygon stroke="#000" stroke-width="2" fill="#fff" points="1 1.5 21 11.5 1 21.5"></polygon>
+        <marker id='realization-marker-end' orient="auto" markerWidth='13' markerHeight='13' refX='0' refY='6.5' markerUnits="userSpaceOnUse">
+            <polygon stroke="none" stroke-width="1" fill="#fff" points="0 0 13 6.5 0 13"></polygon>
         </marker>
     </defs>
 </svg>

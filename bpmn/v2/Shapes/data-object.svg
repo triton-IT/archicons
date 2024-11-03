@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="56" height="68">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="68" height="68">
 	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 36,1 L 1,1 1,67 55,67 55,19 36,1 36,19 55,19" />
 </svg>

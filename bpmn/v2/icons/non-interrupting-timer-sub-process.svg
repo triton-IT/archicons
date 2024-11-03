@@ -1,0 +1,13 @@
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="68" height="68">
+	<circle stroke="rgb(0, 0, 0)" stroke-width="4" stroke-dasharray="20.1" stroke-dashoffset="20" fill="none" cx="34" cy="34" r="32" />
+	<circle stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" cx="34" cy="34" r="25" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 34,18 L 34,34 50,34" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 16,16 L 20,20" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 10,34 L 14.5,34" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 16,52 L 20,48" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 34,58 L 34,53.5" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 52,52 L 48,48" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 58,34 L 53.5,34" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 52,16 L 48,20" />
+	<path stroke="rgb(0, 0, 0)" stroke-width="3" fill="none" d="M 34,10 L 34,14.5" />
+</svg>

@@ -1,0 +1,652 @@
+[
+    {
+        "version": "v2",
+        "elements": [
+            {
+                "id": -1,
+                "shape": "ghost"
+            },
+            {
+                "id": 0,
+                "name": "None start Event",
+                "shape": "interrupting-start-event"
+            },
+            {
+                "id": 1,
+                "name": "Interrupting - Message start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-message-sub-process"
+            },
+            {
+                "id": 2,
+                "name": "Non-interrupting - Message start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-message-sub-process"
+            },
+            {
+                "id": 3,
+                "name": "Interrupting - Timer start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-timer-sub-process"
+            },
+            {
+                "id": 4,
+                "name": "Non-interrupting - Timer start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-timer-sub-process"
+            },
+            {
+                "id": 5,
+                "name": "Interrupting - Conditional start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-conditional-sub-process"
+            },
+            {
+                "id": 6,
+                "name": "Non-interrupting - Conditional start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-conditional-sub-process"
+            },
+            {
+                "id": 7,
+                "name": "Interrupting - Signal start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-signal-sub-process"
+            },
+            {
+                "id": 8,
+                "name": "Non-interrupting - Signal start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-signal-sub-process"
+            },
+            {
+                "id": 9,
+                "name": "Interrupting - Multiple start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-multiple-sub-process"
+            },
+            {
+                "id": 10,
+                "name": "Non-interrupting - Multiple start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-multiple-sub-process"
+            },
+            {
+                "id": 11,
+                "name": "Interrupting - Parallel Multiple start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-parallel-multiple-sub-process"
+            },
+            {
+                "id": 12,
+                "name": "Non-interrupting - Parallel Multiple start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-parallel-multiple-sub-process"
+            },
+            {
+                "id": 13,
+                "name": "Interrupting - Escalation start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-escalation-sub-process"
+            },
+            {
+                "id": 14,
+                "name": "Non-interrupting - Escalation start Event",
+                "shape": "non-interrupting-start-event",
+                "icon": "non-interrupting-escalation-sub-process"
+            },
+            {
+                "id": 15,
+                "name": "Interrupting - Error start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-error-sub-process"
+            },
+            {
+                "id": 16,
+                "name": "Interrupting - Compensation start Event",
+                "shape": "interrupting-start-event",
+                "icon": "interrupting-compensation-sub-process"
+            },
+            {
+                "id": 20,
+                "name": "Interrupting - None Intermediate Event",
+                "shape": "interrupting-intermediate-event"
+            },
+            {
+                "id": 21,
+                "name": "Catch - Message Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "message-event"
+            },
+            {
+                "id": 22,
+                "name": "Interrupting - Boundary - Catch - Message Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "message-event"
+            },
+            {
+                "id": 23,
+                "name": "Non-interrupting - Boundary - Catch - Message Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "message-event"
+            },
+            {
+                "id": 24,
+                "name": "Throw - Message Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "message-invert-event"
+            },
+            {
+                "id": 25,
+                "name": "Interrupting - Timer Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "timer-event"
+            },
+            {
+                "id": 26,
+                "name": "Interrupting - Boundary - Timer Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "timer-event"
+            },
+            {
+                "id": 27,
+                "name": "Non-interrupting - Boundary - Timer Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "timer-event"
+            },
+            {
+                "id": 28,
+                "name": "Interrupting - Conditional Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "conditional-event"
+            },
+            {
+                "id": 29,
+                "name": "Interrupting - Boundary - Conditional Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "conditional-event"
+            },
+            {
+                "id": 30,
+                "name": "Non-interrupting - Boundary - Conditional Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "conditional-event"
+            },
+            {
+                "id": 31,
+                "name": "Catch - Signal Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "signal-event"
+            },
+            {
+                "id": 32,
+                "name": "Interrupting - Boundary - Catch - Signal Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "signal-event"
+            },
+            {
+                "id": 33,
+                "name": "Non-interrupting - Boundary - Catch - Signal Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "signal-event"
+            },
+            {
+                "id": 34,
+                "name": "Interrupting - Boundary - Throw - Signal Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "signal-invert-event"
+            },
+            {
+                "id": 35,
+                "name": "Catch - Multiple Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "multiple-event"
+            },
+            {
+                "id": 36,
+                "name": "Interrupting - Boundary - Catch - Multiple Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "multiple-event"
+            },
+            {
+                "id": 37,
+                "name": "Non-Interrupting - Boundary - Catch - Multiple Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "multiple-event"
+            },
+            {
+                "id": 38,
+                "name": "Throw - Multiple Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "multiple-invert-event"
+            },
+            {
+                "id": 39,
+                "name": "Catch - Parallel Multiple Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "parallel-multiple-event"
+            },
+            {
+                "id": 40,
+                "name": "Interrupting - Boundary - Catch - Parralel Multiple Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "parallel-multiple-event"
+            },
+            {
+                "id": 41,
+                "name": "Non-Interrupting - Boundary - Catch - Parralel Multiple Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "parallel-multiple-event"
+            },
+            {
+                "id": 42,
+                "name": "Catch - Escalation Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "escalation-event"
+            },
+            {
+                "id": 43,
+                "name": "Interrupting - Boundary - Catch - Escalation Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "escalation-event"
+            },
+            {
+                "id": 44,
+                "name": "Non-Interrupting - Boundary - Catch - Escalation Intermediate Event",
+                "shape": "non-interrupting-intermediate-event",
+                "icon": "escalation-event"
+            },
+            {
+                "id": 45,
+                "name": "Throw - Escalation Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "escalation-invert-event"
+            },
+            {
+                "id": 46,
+                "name": "Boundary - Catch - Error Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "error-event"
+            },
+            {
+                "id": 47,
+                "name": "Boundary - Catch - Compensation Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "compensation-event"
+            },
+            {
+                "id": 48,
+                "name": "Throw - Compensation Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "compensation-invert-event"
+            },
+            {
+                "id": 49,
+                "name": "Catch - Link Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "link-event"
+            },
+            {
+                "id": 50,
+                "name": "Throw - Link Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "link-invert-event"
+            },
+            {
+                "id": 51,
+                "name": "Boundary - Catch - Cancel Intermediate Event",
+                "shape": "interrupting-intermediate-event",
+                "icon": "cancel-event"
+            },
+            {
+                "id": 60,
+                "name": "None End Event",
+                "shape": "interrupting-end-event"
+            },
+            {
+                "id": 61,
+                "name": "Message End Event",
+                "shape": "interrupting-end-event",
+                "icon": "message-event"
+            },
+            {
+                "id": 62,
+                "name": "Signal End Event",
+                "shape": "interrupting-end-event",
+                "icon": "signal-event"
+            },
+            {
+                "id": 63,
+                "name": "Multiple End Event",
+                "shape": "interrupting-end-event",
+                "icon": "multiple-event"
+            },
+            {
+                "id": 64,
+                "name": "Escalation End Event",
+                "shape": "interrupting-end-event",
+                "icon": "escalation-event"
+            },
+            {
+                "id": 65,
+                "name": "Error End Event",
+                "shape": "interrupting-end-event",
+                "icon": "error-event"
+            },
+            {
+                "id": 66,
+                "name": "Compensation End Event",
+                "shape": "interrupting-end-event",
+                "icon": "compensation-event"
+            },
+            {
+                "id": 67,
+                "name": "Cancel End Event",
+                "shape": "interrupting-end-event",
+                "icon": "cancel-event"
+            },
+            {
+                "id": 68,
+                "name": "Terminate End Event",
+                "shape": "interrupting-end-event",
+                "icon": "terminate-event"
+            },
+            {
+                "id": 100,
+                "name": "Abstract Task",
+                "shape": "task"
+            },
+            {
+                "id": 101,
+                "name": "Service Task",
+                "shape": "task",
+                "icon": "service-task"
+            },
+            {
+                "id": 102,
+                "name": "Send Task",
+                "shape": "task",
+                "icon": "send-task"
+            },
+            {
+                "id": 103,
+                "name": "Receive Task",
+                "shape": "task",
+                "icon": "receive-task"
+            },
+            {
+                "id": 104,
+                "name": "User Task",
+                "shape": "task",
+                "icon": "user-task"
+            },
+            {
+                "id": 105,
+                "name": "Manual Task",
+                "shape": "task",
+                "icon": "manual-task"
+            },
+            {
+                "id": 106,
+                "name": "Script Task",
+                "shape": "task",
+                "icon": "script-task"
+            },
+            {
+                "id": 110,
+                "name": "Sub-process",
+                "shape": "sub-process",
+                "decorators": ["sub-process"]
+            },
+            {
+                "id": 111,
+                "name": "Ad-hoc Sub-process",
+                "shape": "sub-process",
+                "decorators": ["sub-process", "ad-hoc-sub-process"]
+            },
+            {
+                "id": 112,
+                "name": "transaction",
+                "shape": "transaction-sub-process",
+                "decorators": ["sub-process"]
+            },
+            {
+                "id": 113,
+                "name": "Non-interrupting - Message - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-message-sub-process"
+            },
+            {
+                "id": 114,
+                "name": "interrupting - Message - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-message-sub-process"
+            },
+            {
+                "id": 115,
+                "name": "Non-interrupting - Timer - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-timer-sub-process"
+            },
+            {
+                "id": 116,
+                "name": "interrupting - Timer - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-timer-sub-process"
+            },
+            {
+                "id": 117,
+                "name": "Non-interrupting - Conditional - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-conditional-sub-process"
+            },
+            {
+                "id": 118,
+                "name": "interrupting - Conditional - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-conditional-sub-process"
+            },
+            {
+                "id": 119,
+                "name": "Non-interrupting - Signal - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-signal-sub-process"
+            },
+            {
+                "id": 120,
+                "name": "interrupting - Signal - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-signal-sub-process"
+            },
+            {
+                "id": 121,
+                "name": "Non-interrupting - Multiple - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-multiple-sub-process"
+            },
+            {
+                "id": 122,
+                "name": "interrupting - Multiple - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-multiple-sub-process"
+            },
+            {
+                "id": 123,
+                "name": "Non-interrupting - Parallel Multiple - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-parallel-multiple-sub-process"
+            },
+            {
+                "id": 124,
+                "name": "interrupting - Parallel Multiple - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-parallel-multiple-sub-process"
+            },
+            {
+                "id": 125,
+                "name": "Non-interrupting - Escalation - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "non-interrupting-escalation-sub-process"
+            },
+            {
+                "id": 126,
+                "name": "interrupting - Escalation - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-escalation-sub-process"
+            },
+            {
+                "id": 127,
+                "name": "interrupting - error - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "error-timer-sub-process"
+            },
+            {
+                "id": 128,
+                "name": "interrupting - Compensation - Event Sub-process - Collapsed",
+                "shape": "event-sub-process",
+                "decorators": ["sub-process"],
+                "icon": "interrupting-compensation-sub-process"
+            },
+            {
+                "id": 130,
+                "name": "Abstract call activity",
+                "shape": "call-activity"
+            },
+            {
+                "id": 131,
+                "name": "User call activity",
+                "shape": "call-activity",
+                "icon": "user-call-activity"
+            },
+            {
+                "id": 132,
+                "name": "Manual call activity",
+                "shape": "call-activity",
+                "icon": "manual-call-activity"
+            },
+            {
+                "id": 133,
+                "name": "Business Rule call activity",
+                "shape": "call-activity",
+                "icon": "business-rule-call-activity"
+            },
+            {
+                "id": 134,
+                "name": "Script call activity",
+                "shape": "call-activity",
+                "icon": "script-call-activity"
+            },
+            {
+                "id": 200,
+                "name": "Exclusive Gateway",
+                "shape": "gateway",
+                "icon": "exclusive-gateway"
+            },
+            {
+                "id": 201,
+                "name": "Inclusive Gateway",
+                "shape": "gateway",
+                "icon": "inclusive-gateway"
+            },
+            {
+                "id": 202,
+                "name": "Parralel Gateway",
+                "shape": "gateway",
+                "icon": "parralel-gateway"
+            },
+            {
+                "id": 203,
+                "name": "Complex Gateway",
+                "shape": "gateway",
+                "icon": "complex-gateway"
+            },
+            {
+                "id": 204,
+                "name": "Event-Based Gateway",
+                "shape": "gateway",
+                "icon": "event-based-gateway"
+            },
+            {
+                "id": 205,
+                "name": "Event-based Gateway to Start a Process",
+                "shape": "gateway",
+                "icon": "event-based-gateway-start"
+            },
+            {
+                "id": 206,
+                "name": "Parallel Event-Based Gateway to Start a Process",
+                "shape": "gateway",
+                "icon": "parallel-event-based-gateway-start"
+            },
+            {
+                "id": 300,
+                "name": "Data Object",
+                "shape": "data-object"
+            },
+            {
+                "id": 301,
+                "name": "Data Object Collection",
+                "shape": "data-object",
+                "decorator": "data-collection"
+            },
+            {
+                "id": 302,
+                "name": "Data Input",
+                "shape": "data-object",
+                "icon": "data-input"
+            },
+            {
+                "id": 303,
+                "name": "Data Input Collection",
+                "shape": "data-object",
+                "icon": "data-input",
+                "decorator": "data-collection"
+            },
+            {
+                "id": 304,
+                "name": "Data Output",
+                "shape": "data-object",
+                "icon": "data-output"
+            },
+            {
+                "id": 305,
+                "name": "Data Output Collection",
+                "shape": "data-object",
+                "icon": "data-output",
+                "decorator": "data-collection"
+            },
+            {
+                "id": 306,
+                "name": "Data store",
+                "shape": "data-store"
+            },
+            {
+                "id": 400,
+                "name": "Group",
+                "shape": "artifact-group"
+            },
+            {
+                "id": 401,
+                "name": "Text Annotation",
+                "shape": "artifact-text-annotation"
+            }
+        ],
+        "relations": [
+        ]
+    }
+]

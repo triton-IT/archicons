@@ -1,9 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
    version="1.1"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <path class="shape-element sizeable" vector-effect="non-scaling-stroke"
+   xmlns="http://www.w3.org/2000/svg">
+  <path class="shape-element sizeable selectionnable collisionnable" vector-effect="non-scaling-stroke"
      d="M 0.75, 28.25 V 0.75 H 144.25 V 28.25"
      fill="none"
      stroke="#000"

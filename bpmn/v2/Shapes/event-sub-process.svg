@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="140" height="80">
-	<rect stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="1.5,3" fill="none" x="1" y="1" width="138" height="78" rx="8" />
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="140" height="80">
+	<rect class="shape-element fill-in stroke sizeable selectionnable collisionnable" vector-effect="non-scaling-stroke" stroke="rgb(0, 0, 0)" stroke-width="2" stroke-dasharray="1.5,3" fill="none" x="1" y="1" width="138" height="78" rx="8" />
 </svg>

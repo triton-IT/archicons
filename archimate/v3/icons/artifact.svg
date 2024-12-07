@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37.5px" height="45.5px" viewBox="0 0 37.5 45.5" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="37.5px" height="45.5px" viewBox="0 0 37.5 45.5" version="1.1">
 	<path class="stroke" stroke="#000" stroke-width="1" fill="none" d="M36,12.4102564 C36,25.4184615 36,44 36,44 L0,44 L0,0 L23.625,0 C27.48375,3.86974359 31.9725,8.37128205 36,12.4102564 Z" />
 	<polyline class="stroke" stroke="#000" stroke-width="1" fill="none" points="22 0 22 14 36 14"/>
 </svg>

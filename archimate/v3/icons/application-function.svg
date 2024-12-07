@@ -1,4 +1,4 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="36px" height="31px" viewBox="0 0 36 31" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="36px" height="31px" viewBox="0 0 36 31" version="1.1">
 	<path class="stroke" stroke="#000" stroke-width="1" fill="none" d="M24.0652174,-2.5 C24.0652174,-2.5 33.5,16.1666667 33.5,16.1666667 L24.0652174,33.5 L2.5,33.5 L11.9347826,16.1666667 L2.5,-2.5 L24.0652174,-2.5 L24.0652174,-2.5 Z" transform="translate(18, 15.5) rotate(-90) translate(-18, -15.5)"/>
 </svg>

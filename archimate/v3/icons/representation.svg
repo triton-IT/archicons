@@ -1,5 +1,5 @@
 <?xml version="1.0"?>
-<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="37px" height="32.9477875px" viewBox="0 0 37 32.9477875" version="1.1">
+<svg xmlns="http://www.w3.org/2000/svg" width="37px" height="32.9477875px" viewBox="0 0 37 32.9477875" version="1.1">
 	<path class="stroke" stroke="#000" stroke-width="1" fill="none" d="M0,25.25 C0,25.25 0.755555556,29 7.3037037,29 C13.8518519,29 17.1863704,19.81 23.4222222,18 C29.6580741,16.19 34,25 34,25 L34,0 L0,0.25 L0,25.25 Z" />
 	<rect class="stroke" stroke="#000" stroke-width="1" fill="none" x="0" y="0" width="34" height="8"/>
 </svg>

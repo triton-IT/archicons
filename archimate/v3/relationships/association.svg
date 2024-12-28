@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!DOCTYPE svg PUBLIC "-// W3C// DTD SVG 1.1// EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="240" height="120" xml:space="preserve">
-	<path class="archimate-background-relation-path" marker-end="url(#archimate-association-end)" stroke="#000" stroke-width="1" fill="none" d="M 0,0 L 64,0" />
+	<path class="background-relation-path" marker-end="url(#archimate-association-end)" stroke="#000" stroke-width="1" fill="none" d="M 0,0 L 64,0" />
 </svg>

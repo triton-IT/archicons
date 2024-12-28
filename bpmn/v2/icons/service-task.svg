@@ -1,11 +1,11 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="68" height="68">
-	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 19,39.5 C 13,39.5 4,32 4,22 4,12 12,4 22,4 32,4 39.5,12 39.5,19 " />
-	<path stroke="none" fill="rgb(0, 0, 0)" d="M 20.5,26 C 14,21.5 21.5,14 26,20.5" />
-	<path stroke="rgb(0, 0, 0)" stroke-width="6" fill="none" d="M 0,22 L 5,22 M 6.5,6.5 L 10,10 M 22,0 L 22,5 M 37.5,6.5 L 34,10 M 6.5,37.5 L 10,34" />
+	<path stroke="#000" stroke-width="2" fill="none" d="M 19,39.5 C 13,39.5 4,32 4,22 4,12 12,4 22,4 32,4 39.5,12 39.5,19 " />
+	<path stroke="none" fill="#000" d="M 20.5,26 C 14,21.5 21.5,14 26,20.5" />
+	<path stroke="#000" stroke-width="6" fill="none" d="M 0,22 L 5,22 M 6.5,6.5 L 10,10 M 22,0 L 22,5 M 37.5,6.5 L 34,10 M 6.5,37.5 L 10,34" />
 	
 	<g transform="translate(14, 14)">
-		<circle stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" cx="22" cy="22" r="18" />
-		<circle stroke="none" fill="rgb(0,0,0)" cx="22" cy="22" r="4" />
-		<path stroke="rgb(0, 0, 0)" stroke-width="6" fill="none" d="M 0,22 L 5,22 M 6.5,6.5 L 10,10 M 22,0 L 22,5 M 37.5,6.5 L 34,10 M 40,22 L 44,22 M 37.5,37.5 L 34,34 M 22,40 L 22,44 M 6.5,37.5 L 10,34" />
+		<circle stroke="#000" stroke-width="2" fill="none" cx="22" cy="22" r="18" />
+		<circle stroke="none" fill="#000" cx="22" cy="22" r="4" />
+		<path stroke="#000" stroke-width="6" fill="none" d="M 0,22 L 5,22 M 6.5,6.5 L 10,10 M 22,0 L 22,5 M 37.5,6.5 L 34,10 M 40,22 L 44,22 M 37.5,37.5 L 34,34 M 22,40 L 22,44 M 6.5,37.5 L 10,34" />
 	</g>
 </svg>

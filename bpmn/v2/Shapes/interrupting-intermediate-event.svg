@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="68" height="68">
 	<g class="shape-element fill-in stroke" vector-effect="non-scaling-stroke">
-		<circle class="selectionnable collisionnable" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" cx="34" cy="34" r="33" />
-		<circle stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" cx="34" cy="34" r="29" />
+		<circle class="selectionnable collisionnable" stroke="#000" stroke-width="2" fill="none" cx="34" cy="34" r="33" />
+		<circle stroke="#000" stroke-width="2" fill="none" cx="34" cy="34" r="29" />
 	</g>
 </svg>

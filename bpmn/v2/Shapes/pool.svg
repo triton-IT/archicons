@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="140" height="80">
 	<g class="shape-element">
-		<rect class="fill-in stroke sizeable selectionnable collisionnable" stroke="#000" stroke-width="1" fill="none" x=".5" y=".5" width="139" height="79" rx="2"></rect>
-		<line stroke="#000" stroke-width="1" x1="35" y1="1" x2="35" y2="79" />
+		<rect class="shape-element fill-in stroke sizeable selectionnable collisionnable" stroke="#000" stroke-width="1" fill="none" x=".5" y=".5" width="120" height="67" rx="2"></rect>
+		<line stroke="#000" stroke-width="1" x1="30" y1="1" x2="30" y2="67" />
 	</g>
 </svg>

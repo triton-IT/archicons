@@ -1,3 +1,8 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="68" height="68">
-	<path class="shape-element fill-in stroke sizeable selectionnable collisionnable" vector-effect="non-scaling-stroke" stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 1,15 L 1,55 C 10,64 45,64 55,55 L 55,15 C 45,20 10,20 1,15 L 1,10 C 10,15 45,15 55,10 L 55,15 M 55,10 L 55,5.5 M 1,5 C 10,10 45,10 55,5 C 45,0 10,0 1,5 L 1,10" />
+	<g class="shape-element fill-in stroke" vector-effect="non-scaling-stroke">
+		<path class="fill-in stroke sizeable selectionnable collisionnable" vector-effect="non-scaling-stroke" stroke="#000" stroke-width="2" fill="#777" d="M 1,5 L 1,55 C 10,64 45,64 55,55 L 55,5 C 45,0 10,0 1,5" />
+		<path class="stroke sizeable" vector-effect="non-scaling-stroke" stroke="#000" stroke-width="2" fill="#0000" d="M 1,10 C 10,15 45,15 55,10" />
+		<path class="stroke sizeable" vector-effect="non-scaling-stroke" stroke="#000" stroke-width="2" fill="#0000" d="M 1,5 C 10,10 45,10 55,5" />
+		<path class="stroke sizeable" vector-effect="non-scaling-stroke" stroke="#000" stroke-width="2" fill="#0000" d="M 55,15 C 45,20 10,20 1,15" />
+	</g>
 </svg>

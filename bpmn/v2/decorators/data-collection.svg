@@ -1,6 +1,6 @@
 <svg version="1.1" xmlns="http://www.w3.org/2000/svg" width="56" height="68">
-	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 36,1 L 1,1 1,67 55,67 55,19 36,1 36,19 55,19" />
-	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 24.5,55.5 L 24.5,64.5" />
-	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 28.0,55.5 L 28.0,64.5" />
-	<path stroke="rgb(0, 0, 0)" stroke-width="2" fill="none" d="M 31.5,55.5 L 31.5,64.5" />
+	<path stroke="#000" stroke-width="2" fill="none" d="M 36,1 L 1,1 1,67 55,67 55,19 36,1 36,19 55,19" />
+	<path stroke="#000" stroke-width="2" fill="none" d="M 24.5,55.5 L 24.5,64.5" />
+	<path stroke="#000" stroke-width="2" fill="none" d="M 28.0,55.5 L 28.0,64.5" />
+	<path stroke="#000" stroke-width="2" fill="none" d="M 31.5,55.5 L 31.5,64.5" />
 </svg>
